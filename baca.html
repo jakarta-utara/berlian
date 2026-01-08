@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jakarta utara</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main-wrapper">
+        <div class="container">
+            <a href="index.html" style="color:var(--pink-dark); text-decoration:none; font-weight:bold;">← Kembali ke Beranda</a>
+            <div id="konten-lengkap" style="margin-top:40px;">
+                </div>
+        </div>
+        <footer>&copy; 2026 jakarta utara</footer>
+    </div>
+
+    <script src="data-artikel.js"></script>
+    <script>
+        function muatArtikel() {
+            // Membaca ID dari URL (?id=...)
+            const urlParams = new URLSearchParams(window.location.search);
+            const idArt = urlParams.get('id'); 
+            
+            const artikel = daftarArtikel.find(item => item.id === idArt);
+            const target = document.getElementById('konten-lengkap');
+
+            if (artikel) {
+                document.title = artikel.judul;
+                target.innerHTML = `
+                    <span class="tag">${artikel.tag}</span>
+                    <div class="title-wrapper"><h1 style="font-size:clamp(2rem, 5vw, 3.5rem);">${artikel.judul}</h1></div>
+                    <p style="color:#888;">Update: ${artikel.tanggal}</p>
+                    <img src="${artikel.gambar}" class="detail-img">
+                    <div class="isi-artikel">${artikel.isiLengkap}</div>
+                `;
+            } else {
+                target.innerHTML = "<h2>Halaman Tidak Ditemukan</h2><p>ID: " + idArt + " tidak ada.</p>";
+            }
+        }
+        window.onload = muatArtikel;
+    </script>
+</body>
+</html>
