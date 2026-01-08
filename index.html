@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jakarta utara</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main-wrapper">
+        <header><h1>jakarta utara</h1></header>
+        <div class="container">
+            <div id="daftar-artikel" class="card-grid"></div>
+        </div>
+        <footer>&copy; 2026 Jakarta Utara</footer>
+    </div>
+
+    <script src="data-artikel.js"></script>
+    <script>
+        const container = document.getElementById('daftar-artikel');
+        if (typeof daftarArtikel !== 'undefined') {
+            daftarArtikel.forEach(art => {
+                container.innerHTML += `
+                    <div class="card">
+                        <img src="${art.gambar}">
+                        <div class="card-body">
+                            <br><span class="tag">${art.tag}</span>
+                            <div class="title-wrapper"><h2>${art.judul}</h2></div>
+                            <p>${art.cuplikan}</p>
+                            <a href="baca.html?id=${art.id}" class="btn">Lihat Selengkapnya</a>
+                        </div>
+                    </div>
+                `;
+            });
+        }
+    </script>
+</body>
+</html>
