@@ -4,7 +4,7 @@ const daftarArtikel = [
         tag: "cara",
         judul: "Memilih Cincin Berlian — Cerita & Tips Praktis",
         cuplikan: "membimbing cara memilih perhiasan berlian",
-        gambar: "https://pbs.twimg.com/media/DS_sBYSV4AAdcEC.jpg",
+        gambar: "https://roserypoetry.com/cdn/shop/products/H71cb5c11884e490cbe6b0bbc0695e59cP.jpg",
         tanggal: "2026-01-08",
         isiLengkap: `
 <blockquote>
@@ -104,10 +104,7 @@ Dengan memahami kualitas berlian, menguji desain yang tepat, dan memastikan keny
 <p>
 Memilih cincin berlian adalah proses yang memadukan pengetahuan teknis, pengujian desain, dan refleksi pribadi. Dengan memahami standar 4C berlian, mencoba desain di tangan Anda, dan menetapkan anggaran yang realistis namun optimal, Anda bisa memilih cincin berlian yang tidak hanya indah secara visual tetapi juga bermakna secara emosional bagi Anda.
 </p>
-
-<hr>
-
-<p><strong>Bio:</strong> Saya seorang penulis dan pecinta cerita nyata; saya suka membantu orang melihat makna di balik keputusan penting dalam hidup — mulai dari cincin berlian hingga pilihan estetika yang benar-benar bermakna bagi mereka.</p> `
+ `
 
     },
     {
