@@ -8,7 +8,7 @@ const daftarArtikel = [
         tanggal: "2026-01-08",
         isiLengkap: `
             <h3>Langkah pesanan</h3>
-            <p>Siapkan susu cair dan bubuk agar-agar, aduk hingga mendidih.</p>
+            <p>Siapkan ukuran cincin yg mau kamu ambil</p>
             <div class="video-container">
                 <iframe src="https://www.youtube.com/embed/V1n996GxLRk"></iframe>
             </div>
