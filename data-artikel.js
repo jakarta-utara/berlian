@@ -1,7 +1,7 @@
 const daftarArtikel = [
     {
         id: "cincin-berlin-jakarta-utara", // ID ini harus unik
-        tag: "resep",
+        tag: "berlian",
         judul: "cincin berlian tersedia di daerah jakarta utara",
         cuplikan: "Cara beli..",
         gambar: "https://pbs.twimg.com/media/DS_sBYSV4AAdcEC.jpg",
@@ -10,7 +10,7 @@ const daftarArtikel = [
             <h3>Langkah pesanan</h3>
             <p>Siapkan susu cair dan bubuk agar-agar, aduk hingga mendidih.</p>
             <div class="video-container">
-                <iframe src="https://www.youtube.com/embed/pchKoaPHBM_qjFIW"></iframe>
+                <iframe src="https://www.youtube.com/embed/V1n996GxLRk"></iframe>
             </div>
         `
     },
