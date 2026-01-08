@@ -4,7 +4,7 @@ const daftarArtikel = [
         tag: "cara",
         judul: "Memilih Cincin Berlian — Cerita & Tips Praktis",
         cuplikan: "membimbing cara memilih perhiasan berlian",
-        gambar: "https://roserypoetry.com/cdn/shop/products/H71cb5c11884e490cbe6b0bbc0695e59cP.jpg",
+        gambar: "https://pbs.twimg.com/media/FeV0PcUXgAATGx-.jpg",
         tanggal: "2026-01-08",
         isiLengkap: `
 <blockquote>
@@ -16,7 +16,7 @@ Saya masih ingat betapa bingungnya saya ketika pertama kali memutuskan untuk mem
 </p>
 
 <p>
-Perjalanan itu bukan instan, karena saya membaca banyak penjelasan tentang kualitas berlian — terutama standar 4C: <em>Cut (potongan), Color (warna), Clarity (kejernihan), dan Carat (berat)</em> — yang jadi dasar untuk mengetahui apa yang saya cari dalam berlian yang akan saya pilih. :contentReference[oaicite:0]{index=0}
+Perjalanan itu bukan instan, karena saya membaca banyak penjelasan tentang kualitas berlian — terutama standar 4C: <em>Cut (potongan), Color (warna), Clarity (kejernihan), dan Carat (berat)</em> — yang jadi dasar untuk mengetahui apa yang saya cari dalam berlian yang akan saya pilih.
 </p>
 
 <p>
@@ -26,29 +26,29 @@ Dalam tulisan ini, saya akan berbagi bagaimana pengalaman saya sampai pada keput
 <h2>Apa Itu 4C Berlian dan Kenapa Penting</h2>
 
 <p>
-Saat belajar memilih berlian, hal pertama yang saya pelajari adalah 4C — standar internasional untuk menilai kualitas berlian. :contentReference[oaicite:1]{index=1}
+Saat belajar memilih berlian, hal pertama yang saya pelajari adalah 4C — standar internasional untuk menilai kualitas berlian.
 </p>
 
 <p>
-<strong>Cut (Potongan)</strong> menentukan seberapa baik berlian memantulkan cahaya dan menciptakan kilau yang indah. Potongan yang proporsional membuat berlian tampak hidup dan menawan. :contentReference[oaicite:2]{index=2}
+<strong>Cut (Potongan)</strong> menentukan seberapa baik berlian memantulkan cahaya dan menciptakan kilau yang indah. Potongan yang proporsional membuat berlian tampak hidup dan menawan.
 </p>
 
 <p>
-<strong>Color (Warna)</strong> mengacu pada seberapa sedikit warna yang tampak pada berlian — semakin tidak berwarna, semakin tinggi nilainya. :contentReference[oaicite:3]{index=3}
+<strong>Color (Warna)</strong> mengacu pada seberapa sedikit warna yang tampak pada berlian — semakin tidak berwarna, semakin tinggi nilainya.
 </p>
 
 <p>
-<strong>Clarity (Kejernihan)</strong> menggambarkan ada tidaknya inklusi atau cacat di dalam berlian. Berlian dengan inklusi minimal biasanya lebih bernilai. :contentReference[oaicite:4]{index=4}
+<strong>Clarity (Kejernihan)</strong> menggambarkan ada tidaknya inklusi atau cacat di dalam berlian. Berlian dengan inklusi minimal biasanya lebih bernilai.
 </p>
 
 <p>
-<strong>Carat (Karat)</strong> adalah ukuran berat berlian, yang sering dikaitkan dengan ukuran visual batu. Tetapi carat harus diseimbangkan dengan kualitas 4C lainnya agar kilau dan nilai berlian tetap optimal. :contentReference[oaicite:5]{index=5}
+<strong>Carat (Karat)</strong> adalah ukuran berat berlian, yang sering dikaitkan dengan ukuran visual batu. Tetapi carat harus diseimbangkan dengan kualitas 4C lainnya agar kilau dan nilai berlian tetap optimal.
 </p>
 
 <h2>Cerita Saya: Fokus Pada Kualitas, Bukan Ukuran</h2>
 
 <p>
-Awalnya saya ingin berlian yang paling besar, tetapi ketika mulai memegang berbagai cincin di toko, saya segera menyadari bahwa ukuran besar tidak selalu berarti kilau yang terbaik. Yang membuat berlian terlihat menawan justru adalah bagaimana cahaya dipantulkan — yang kembali ke potongan dan kejernihan berlian itu sendiri. :contentReference[oaicite:6]{index=6}
+Awalnya saya ingin berlian yang paling besar, tetapi ketika mulai memegang berbagai cincin di toko, saya segera menyadari bahwa ukuran besar tidak selalu berarti kilau yang terbaik. Yang membuat berlian terlihat menawan justru adalah bagaimana cahaya dipantulkan — yang kembali ke potongan dan kejernihan berlian itu sendiri.
 </p>
 
 <p>
@@ -58,7 +58,7 @@ Saya berusaha mencoba berbagai kombinasi potongan dan ukuran, membandingkan baga
 <h2>Desain dan Gaya: Tidak Ada Jawaban Satu untuk Semua</h2>
 
 <p>
-Bagian lain yang saya pelajari adalah desain cincin. Saya melihat beberapa gaya seperti solitaire yang sederhana dan elegan, serta halo yang menambah kilau di sekitar batu utama. Setiap desain mempengaruhi bagaimana berlian itu terlihat ketika dipakai. :contentReference[oaicite:7]{index=7}
+Bagian lain yang saya pelajari adalah desain cincin. Saya melihat beberapa gaya seperti solitaire yang sederhana dan elegan, serta halo yang menambah kilau di sekitar batu utama. Setiap desain mempengaruhi bagaimana berlian itu terlihat ketika dipakai. 
 </p>
 
 <p>
@@ -68,7 +68,7 @@ Pengalaman mencoba cincin-cincin ini membantu saya menyadari desain apa yang pal
 <h2>Kenyamanan: Hal yang Sering Terlupakan</h2>
 
 <p>
-Suatu hari saya mencoba cincin yang terlihat sangat cantik tetapi terasa berat dan sedikit mengganggu ketika bekerja. Saya belajar bahwa ukuran potongan batu, ketebalan band, dan tinggi setting berlian semuanya memengaruhi bagaimana cincin itu terasa di jari. :contentReference[oaicite:8]{index=8}
+Suatu hari saya mencoba cincin yang terlihat sangat cantik tetapi terasa berat dan sedikit mengganggu ketika bekerja. Saya belajar bahwa ukuran potongan batu, ketebalan band, dan tinggi setting berlian semuanya memengaruhi bagaimana cincin itu terasa di jari.
 </p>
 
 <p>
@@ -82,11 +82,11 @@ Ketika membicarakan anggaran, saya pernah berpikir bahwa saya harus menghabiskan
 </p>
 
 <p>
-Saya membaca beberapa saran bahwa memilih berlian sedikit di bawah ukuran karat populer (misalnya 0.90 dibanding 1.00) bisa menghemat biaya tanpa kehilangan penampilan visual yang berarti. :contentReference[oaicite:9]{index=9}
+Saya membaca beberapa saran bahwa memilih berlian sedikit di bawah ukuran karat populer (misalnya 0.90 dibanding 1.00) bisa menghemat biaya tanpa kehilangan penampilan visual yang berarti.
 </p>
 
 <p>
-Selain itu, penting juga memastikan berlian yang dipilih memiliki sertifikat dari laboratorium gemologi yang diakui agar Anda yakin dengan apa yang Anda beli. :contentReference[oaicite:10]{index=10}
+Selain itu, penting juga memastikan berlian yang dipilih memiliki sertifikat dari laboratorium gemologi yang diakui agar Anda yakin dengan apa yang Anda beli.
 </p>
 
 <h2>Pelajaran Terbesar: Makna di Balik Pilihan Anda</h2>
