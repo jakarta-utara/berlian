@@ -4,7 +4,7 @@ const daftarArtikel = [
         tag: "cincin berlian",
         judul: "Panduan Cerdas Membeli Cincin Berlian untuk Nikah Agar Tidak Overpay, Tetap Mewah dan Nyaman Dipakai Seumur Hidup",
         cuplikan: "Panduan lengkap memilih cincin berlian nikah agar tidak overpay. Pelajari cara menilai kualitas, harga wajar dan desain yang nyaman seumur hidup.....",
-        gambar: "https://pbs.twimg.com/media/G-NZWsqboAAuQ-Z?format=jpg&name=900x900",
+        gambar: "https://pbs.twimg.com/media/G-NZWsqboAAuQ-Z?format=jpg",
         tanggal: "2026-01-09",
         isiLengkap: `
     <h1>Panduan Memilih Cincin Berlian untuk Nikah</h1>
@@ -76,9 +76,9 @@ const daftarArtikel = [
     <h2>Model Cincin Berlian Nikah Paling Populer</h2>
     <p>Model solitaire menjadi pilihan klasik karena tampil sederhana dan abadi.</p>
     <p>Model minimalis modern juga banyak diminati karena praktis dan elegan.</p>
-    <p>Popularitas model ini menunjukkan bahwa desain timeless selalu menjadi favorit.</p>
-
-
+    <p>Popularitas model ini menunjukkan bahwa desain timeless selalu menjadi favorit.</p> 
+    
+    `
  
     },
     {
