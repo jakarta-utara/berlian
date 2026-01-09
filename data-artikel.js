@@ -10,77 +10,74 @@ const daftarArtikel = [
     <h1>Panduan Memilih Cincin Berlian untuk Nikah</h1>
     <p>Memilih cincin berlian untuk nikah bukan hanya soal tampilan, tetapi juga kenyamanan dan makna jangka panjang. Cincin ini akan digunakan setiap hari, sehingga kualitas material dan desain harus benar-benar dipertimbangkan.</p>
     <p>Gaya hidup pasangan menjadi faktor utama dalam menentukan desain. Untuk aktivitas harian yang padat, cincin dengan desain minimalis dan setting berlian yang aman lebih disarankan. Pemilihan logam seperti emas atau platinum juga berpengaruh pada daya tahan.</p>
-    <p>Banyak pasangan memilih cincin berlian custom agar desain, ukuran, dan budget bisa disesuaikan secara ideal. Dengan perencanaan yang tepat, cincin nikah dapat menjadi simbol cinta yang nyaman dipakai seumur hidup.</p>
+    <p>Banyak pasangan memilih cincin berlian custom agar desain, ukuran dan budget bisa disesuaikan secara ideal. Dengan perencanaan yang tepat, cincin nikah dapat menjadi simbol cinta yang nyaman dipakai seumur hidup.</p>
 
-<article>
+
     <h2>Kesalahan Umum Saat Membeli Cincin Berlian Nikah</h2>
     <p>Salah satu kesalahan yang sering terjadi adalah membeli cincin hanya karena tampilan besar atau promo besar-besaran. Padahal, kualitas berlian dan kerapihan pengerjaan jauh lebih penting.</p>
     <p>Kesalahan lain adalah tidak memeriksa sertifikat berlian. Tanpa sertifikat resmi, keaslian dan kualitas berlian sulit diverifikasi, terutama untuk penggunaan jangka panjang.</p>
     <p>Dengan memahami kesalahan umum ini, pasangan dapat lebih percaya diri dan terhindar dari penyesalan setelah pembelian.</p>
-</article>
 
-<article>
+
+
     <h2>4C Berlian dan Pengaruhnya pada Harga Cincin Nikah</h2>
-    <p>4C berlian terdiri dari Cut, Color, Clarity, dan Carat. Keempat faktor ini menentukan kualitas visual serta harga berlian secara keseluruhan.</p>
+    <p>4C berlian terdiri dari Cut, Color, Clarity dan Carat. Keempat faktor ini menentukan kualitas visual serta harga berlian secara keseluruhan.</p>
     <p>Cut merupakan faktor paling penting karena memengaruhi kilau berlian. Berlian dengan cut yang baik akan terlihat lebih indah meski memiliki carat yang lebih kecil.</p>
     <p>Dengan memahami 4C, pasangan dapat mengatur kombinasi terbaik sesuai budget tanpa mengorbankan keindahan cincin nikah.</p>
-</article>
 
-<article>
+
+
     <h2>Ukuran Berlian Ideal untuk Cincin Nikah</h2>
     <p>Ukuran berlian ideal bersifat relatif dan tergantung pada selera serta kenyamanan. Untuk cincin nikah, ukuran sedang sering menjadi pilihan karena praktis dipakai sehari-hari.</p>
     <p>Berlian yang terlalu besar berisiko mudah terbentur, sementara ukuran proporsional justru terlihat lebih elegan dan timeless.</p>
     <p>Memilih ukuran berlian yang tepat membantu menjaga keseimbangan antara estetika dan fungsi.</p>
-</article>
 
-<article>
+
+
     <h2>Natural Diamond vs Lab-Grown Diamond untuk Nikah</h2>
     <p>Berlian natural terbentuk secara alami selama jutaan tahun, sedangkan lab-grown diamond dibuat di laboratorium dengan struktur kimia yang sama.</p>
     <p>Lab-grown diamond menawarkan harga yang lebih terjangkau, sementara berlian natural sering dipilih karena nilai emosional dan investasinya.</p>
     <p>Keduanya sama-sama asli, sehingga pilihan tergantung pada prioritas dan preferensi pasangan.</p>
-</article>
 
-<article>
+
+
     <h2>Kenapa Cincin Berlian Nikah Harus Bersertifikat</h2>
     <p>Sertifikat berlian merupakan bukti keaslian dan kualitas yang dikeluarkan oleh lembaga independen setempat lumrahnya setiap otoritas disetiap kota ada tim penguji lab bahan ( ini yg menentukan serifikat seputar cincin color dll).</p>
     <p>Dengan sertifikat, detail seperti 4C berlian dapat diverifikasi secara transparan dan profesional.</p>
     <p>Cincin berlian bersertifikat memberikan rasa aman dan meningkatkan kepercayaan dalam jangka panjang.</p>
-</article>
 
-<article>
+
+
     <h2>Perbedaan Cincin Nikah dan Cincin Tunangan</h2>
     <p>Cincin tunangan umumnya memiliki desain lebih menonjol dengan fokus pada berlian utama, sedangkan cincin nikah cenderung lebih simpel.</p>
     <p>Karena dipakai setiap hari, cincin nikah dirancang agar lebih nyaman dan tidak mudah tersangkut.</p>
     <p>Memahami perbedaan ini membantu pasangan memilih desain yang saling melengkapi.</p>
-</article>
 
-<article>
+
+
     <h2>Material Terbaik untuk Cincin Berlian Nikah</h2>
     <p>Material yang umum digunakan antara lain emas kuning, emas putih, rose gold, dan platinum.</p>
     <p>Platinum dikenal sangat kuat dan tahan lama, sementara emas lebih fleksibel untuk desain custom.</p>
     <p>Pemilihan material sebaiknya disesuaikan dengan gaya hidup dan preferensi jangka panjang.</p>
-</article>
 
-<article>
+
+
     <h2>Cincin Berlian Custom untuk Pernikahan</h2>
     <p>Cincin berlian custom memungkinkan pasangan menciptakan desain yang benar-benar personal.</p>
     <p>Selain unik, cincin custom juga fleksibel dari sisi budget dan spesifikasi berlian.</p>
     <p>Inilah alasan cincin custom semakin diminati oleh pasangan modern.</p>
-</article>
 
-<article>
+
     <h2>Cara Menentukan Budget Cincin Berlian Nikah</h2>
     <p>Menentukan budget sejak awal membantu proses pemilihan cincin menjadi lebih terarah.</p>
     <p>Tidak ada standar harga pasti, yang terpenting adalah sesuai kemampuan dan kebutuhan anda dan dipengrajin kami bisa dibicarakan sesuai kemauan anda.</p>
     <p>Dengan perencanaan yang tepat, cincin berlian tetap bisa tampil elegan di berbagai rentang budget.</p>
-</article>
-
-<article>
+    
     <h2>Model Cincin Berlian Nikah Paling Populer</h2>
     <p>Model solitaire menjadi pilihan klasik karena tampil sederhana dan abadi.</p>
     <p>Model minimalis modern juga banyak diminati karena praktis dan elegan.</p>
     <p>Popularitas model ini menunjukkan bahwa desain timeless selalu menjadi favorit.</p>
-</article>
+
 
  
     },
