@@ -42,7 +42,7 @@ const daftarArtikel = [
 
 
     <h2>Kenapa Cincin Berlian Nikah Harus Bersertifikat</h2>
-    <p>Sertifikat berlian merupakan bukti keaslian dan kualitas yang dikeluarkan oleh lembaga independen setempat lumrahnya setiap otoritas disetiap kota ada tim penguji lab bahan ( ini yg menentukan serifikat seputar cincin color dll).</p>
+    <p>Sertifikat berlian merupakan bukti keaslian dan kualitas yang dikeluarkan oleh lembaga independen setempat lumrahnya setiap otoritas disetiap kota ada tim penguji lab bahan ( ini yg menentukan sertifikat seputar cincin color dll).</p>
     <p>Dengan sertifikat, detail seperti 4C berlian dapat diverifikasi secara transparan dan profesional.</p>
     <p>Cincin berlian bersertifikat memberikan rasa aman dan meningkatkan kepercayaan dalam jangka panjang.</p>
 
@@ -70,7 +70,7 @@ const daftarArtikel = [
 
     <h2>Cara Menentukan Budget Cincin Berlian Nikah</h2>
     <p>Menentukan budget sejak awal membantu proses pemilihan cincin menjadi lebih terarah.</p>
-    <p>Tidak ada standar harga pasti, yang terpenting adalah sesuai kemampuan dan kebutuhan anda dan dipengrajin kami bisa dibicarakan sesuai kemauan anda.</p>
+    <p>Tidak ada standar harga pasti, yang terpenting adalah sesuai kemampuan dan kebutuhan anda dipengrajin kami bisa dibicarakan sesuai kemauan anda.</p>
     <p>Dengan perencanaan yang tepat, cincin berlian tetap bisa tampil elegan di berbagai rentang budget.</p>
     
     <h2>Model Cincin Berlian Nikah Paling Populer</h2>
