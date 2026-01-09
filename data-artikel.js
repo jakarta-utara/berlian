@@ -2,11 +2,11 @@ const daftarArtikel = [
     {
       id: "Panduan-Cerdas-Membeli-Cincin-Berlian-untuk-Nikah-Agar-Tidak-Overpay-Tetap-Mewah-Nyaman-Dipakai-Seumur-Hidup", // ID ini harus unik
         tag: "cincin berlian",
-        judul: "Panduan Cerdas Membeli Cincin Berlian untuk Nikah Agar Tidak Overpay, Tetap Mewah, dan Nyaman Dipakai Seumur Hidup",
-        cuplikan: "supaya jangan takut rugi dan keputusan pintar....",
+        judul: "Panduan Cerdas Membeli Cincin Berlian untuk Nikah Agar Tidak Overpay, Tetap Mewah dan Nyaman Dipakai Seumur Hidup",
+        cuplikan: "Panduan lengkap memilih cincin berlian nikah agar tidak overpay. Pelajari cara menilai kualitas, harga wajar dan desain yang nyaman seumur hidup.....",
         gambar: "https://pbs.twimg.com/media/G-NZWsqboAAuQ-Z?format=jpg&name=900x900",
         tanggal: "2026-01-09",
-        isiLengkap: 
+        isiLengkap: `
     <h1>Panduan Memilih Cincin Berlian untuk Nikah</h1>
     <p>Memilih cincin berlian untuk nikah bukan hanya soal tampilan, tetapi juga kenyamanan dan makna jangka panjang. Cincin ini akan digunakan setiap hari, sehingga kualitas material dan desain harus benar-benar dipertimbangkan.</p>
     <p>Gaya hidup pasangan menjadi faktor utama dalam menentukan desain. Untuk aktivitas harian yang padat, cincin dengan desain minimalis dan setting berlian yang aman lebih disarankan. Pemilihan logam seperti emas atau platinum juga berpengaruh pada daya tahan.</p>
