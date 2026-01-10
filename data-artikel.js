@@ -4,14 +4,13 @@ const daftarArtikel = [
         tag: "cincin berlian", "tlp/wa:082299315270",
         judul: "jakarta utara cincin mata utama zamrud dikelilingi berlian unik bentuk kucing",
         cuplikan: "cincin berbentuk kucing lucu ini.....",
-        gambar: "https://pbs.twimg.com/media/G-Rfu_mbUAABKPk?format=jpg&name=900x900",
+        gambar: "https://pbs.twimg.com/media/G-Rfu_mbUAABKPk?format=jpg",
         tanggal: "2026-01-10",
         isiLengkap: ` <h1>jakarta utara cincin zamrud dikelilingi berlian indah bentuk kucing</h1>
 <p>cincin perhiasan mewah desain unik yang menampilkan batu permata berwarna hijau zamrud dengan potongan emerald cut yang besar dan menonjol sebagai fokus utama.</p>
 <p>Batu permata hijau ini diapit di kedua sisinya oleh dua bentuk kepala hewan menyerupai kucing yang dipenuhi dengan berlian kecil yang berkilauan.</p>
 <p>Logam cincin tersebut tampak mengkilap dan berwarna perak atau putih, menahan permata hijau menggunakan empat cakar logam yang ramping.</p>
-<p>Cahaya yang kuat menyorot menciptakan pantulan tajam pada permukaan logam dan permata</p>
-        `   
+<p>Cahaya yang kuat menyorot menciptakan pantulan tajam pada permukaan logam dan permata</p> `   
     },
     {
         id: "cincin-berlian-kupu-kupu-jakarta-utara", // ID ini harus unik
