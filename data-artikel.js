@@ -1,7 +1,8 @@
 const daftarArtikel = [
     {
      id: "jakarta-utara-cincin-zamrud-berlian-bentuk-kucing-lucu", // ID ini harus unik
-        tag: "cincin berlian", "tlp/wa:082299315270",
+        tag: "cincin berlian", 
+        tag: "tlp/wa:082299315270",
         judul: "jakarta utara cincin mata utama zamrud dikelilingi berlian unik bentuk kucing",
         cuplikan: "cincin berbentuk kucing lucu ini.....",
         gambar: "https://pbs.twimg.com/media/G-Rfu_mbUAABKPk?format=jpg",
@@ -14,7 +15,8 @@ const daftarArtikel = [
     },
     {
         id: "cincin-berlian-kupu-kupu-jakarta-utara", // ID ini harus unik
-        tag: "cincin berlian","tlp/wa:082299315270",
+        tag: "cincin berlian",
+        tag: "tlp/wa:082299315270",
         judul: "jakarta utara cincin mata utama zamrud dikelilingi berlian unik bentuk kupu kupu",
         cuplikan: "cincin mata utama zamrud dikelilingi berlian luar biasa indahnya.....",
         gambar: "https://pbs.twimg.com/media/G-RWJroasAEPJhJ?format=jpg",
@@ -28,7 +30,8 @@ const daftarArtikel = [
     },
     {
       id: "Panduan-Cerdas-Membeli-Cincin-Berlian-untuk-Nikah-Agar-Tidak-Overpay-Tetap-Mewah-Nyaman-Dipakai-Seumur-Hidup", // ID ini harus unik
-        tag: "cincin berlian","tlp/wa:082299315270",
+        tag: "cincin berlian",
+        tag: "tlp/wa:082299315270",
         judul: "Panduan Cerdas Membeli Cincin Berlian untuk Nikah Agar Tidak Overpay, Tetap Mewah dan Nyaman Dipakai Seumur Hidup",
         cuplikan: "Panduan lengkap memilih cincin berlian nikah agar tidak overpay. Pelajari cara menilai kualitas, harga wajar dan desain yang nyaman seumur hidup.....",
         gambar: "https://pbs.twimg.com/media/G-NZWsqboAAuQ-Z?format=jpg",
@@ -110,7 +113,8 @@ const daftarArtikel = [
     },
     {
         id: "Memilih-Cincin-Berlian-Cerita-Tips-Praktis", // ID ini harus unik
-        tag: "cara","tlp/wa:082299315270",
+        tag: "cara",
+        tag: "tlp/wa:082299315270",
         judul: "Memilih Cincin Berlian — Cerita & Tips Praktis",
         cuplikan: "membimbing cara memilih perhiasan berlian",
         gambar: "https://pbs.twimg.com/media/FeV0PcUXgAATGx-.jpg",
@@ -218,7 +222,8 @@ Memilih cincin berlian adalah proses yang memadukan pengetahuan teknis, pengujia
     },
     {
         id: "cincin-berlin-jakarta-utara", // ID ini harus unik
-        tag: "berlian","tlp/wa:082299315270",
+        tag: "berlian",
+        tag: "tlp/wa:082299315270",
         judul: "cincin berlian tersedia di daerah jakarta utara",
         cuplikan: "Cara beli..",
         gambar: "https://pbs.twimg.com/media/DS_sBYSV4AAdcEC.jpg",
@@ -233,7 +238,8 @@ Memilih cincin berlian adalah proses yang memadukan pengetahuan teknis, pengujia
     },
     {
         id: "berita-harga-cincin-berlian",
-        tag: "berita","tlp/wa:082299315270",
+        tag: "berita",
+        tag: "tlp/wa:082299315270",
         judul: "Update Harga berlian Hari Ini",
         cuplikan: "Laporan harian mengenai harga berlian cepat...",
         gambar: "https://pbs.twimg.com/media/GEeaLY7XsAAvDQR.jpg",
@@ -242,7 +248,8 @@ Memilih cincin berlian adalah proses yang memadukan pengetahuan teknis, pengujia
     },
     {
         id: "bahan-membuat-cincin-berlian-apa-saja",
-        tag: "bahan","tlp/wa:082299315270",
+        tag: "bahan",
+        tag: "tlp/wa:082299315270",
         judul: "bahan berkualitas apa saja diperlukan untuk cincin",
         cuplikan: "perlu kamu ketahui ketika memiliki cincin berkualitas....",
         gambar: "https://pbs.twimg.com/media/G8YQwjfW4AEB9i1.jpg",
