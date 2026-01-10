@@ -1,7 +1,8 @@
 const daftarArtikel = [
     {
      id: "jakarta-utara-cincin-zamrud-berlian-bentuk-kucing-lucu", // ID ini harus unik
-        tag: "cincin berlian", "tlp/wa:082299315270",
+        tag: "cincin berlian", 
+        tag: "tlp/wa:082299315270",
         judul: "jakarta utara cincin mata utama zamrud dikelilingi berlian unik bentuk kucing",
         cuplikan: "cincin berbentuk kucing lucu ini.....",
         gambar: "https://pbs.twimg.com/media/G-Rfu_mbUAABKPk?format=jpg",
