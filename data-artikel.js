@@ -1,5 +1,19 @@
 const daftarArtikel = [
     {
+        id: "cincin-berlian-kupu-kupu-jakarta-utara", // ID ini harus unik
+        tag: "cincin berlian",
+        judul: "jakarta utara cincin mata utama zamrud dikelilingi berlian unik bentuk kupu kupu",
+        cuplikan: "cincin mata utama zamrud dikelilingi berlian luar biasa indahnya.....",
+        gambar: "https://pbs.twimg.com/media/G-RWJroasAEPJhJ?format=jpg",
+        tanggal: "2026-01-10",
+        isiLengkap: ` <h1>jakarta utara cincin unik bentuk kupu kupu</h1>
+        <p>Sebuah cincin yg ditampilkan dengan desain kepala kupu-kupu</p> 
+        <p>Bagian badan kupu-kupu dihiasi oleh satu batu permata zamrud besar berbentuk oval dengan warna hijau tua yang intens.</p>
+        <p>Sayap-sayapnya terbentuk dari susunan berlian jernih yang berkilauan, di mana setiap sayap utama terdiri dari batu potong marquise yang dikelilingi oleh barisan berlian kecil yang dipasang dalam pengaturan halo. Logam cincin berwarna perak mengkilap, membentuk rangka sayap dan dua antena kecil di bagian atas yang masing-masing dihiasi dengan berlian bundar kecil di ujungnya. Cincin ini memiliki desain pita ganda yang menopang struktur kupu-kupu, memberikan kesan mewah dan detail yang rumit.</p>
+        
+        `
+    },
+    {
       id: "Panduan-Cerdas-Membeli-Cincin-Berlian-untuk-Nikah-Agar-Tidak-Overpay-Tetap-Mewah-Nyaman-Dipakai-Seumur-Hidup", // ID ini harus unik
         tag: "cincin berlian",
         judul: "Panduan Cerdas Membeli Cincin Berlian untuk Nikah Agar Tidak Overpay, Tetap Mewah dan Nyaman Dipakai Seumur Hidup",
